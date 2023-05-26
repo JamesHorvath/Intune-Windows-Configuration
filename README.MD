@@ -1,1 +1,1 @@
-# Various technicques to configure Windows with Intune
+# Various techniques to configure Windows with Intune
